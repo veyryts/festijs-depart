@@ -24,9 +24,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Lancer le projet
 
-Ouvrir `index.html` avec un serveur local (extension Live Server de VS Code
-
-> Le double-clic sur `index.html` ne suffit pas : les modules ES et le chargement des données ne fonctionnent qu'en `http://`, pas en `file://`.
+Ouvrir `index.html` avec un serveur local (extension Live Server de VS Code)
 
 ## Arborescence
 
