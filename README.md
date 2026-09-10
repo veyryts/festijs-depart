@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — [Vinylofest]
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -6,15 +6,14 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
+|Thomas Veyry|                 |        |
 |            |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- **Thomas V →**
 
 ## Le festival
 
