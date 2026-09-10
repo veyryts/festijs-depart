@@ -6,7 +6,7 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
+|Thomas Veyry|                 |        |
 |            |                 |        |
 
 ### Répartition du travail
